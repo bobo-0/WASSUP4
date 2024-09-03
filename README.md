@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&fontColor=000000&height=300&section=header&text=교육생%20한보영&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&fontColor=000000&height=300&section=header&text=한 보 영&fontSize=50)
 
 <div align=center> 
 
