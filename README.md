@@ -1,4 +1,5 @@
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=300&section=header&text=ESTsoft%20AI서비스기획%20전문가%20양성과정%204기%20교육생%20한보영capsule%20render&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&fontColor=000000&height=300&section=header&text=ESTsoft%20AI서비스기획%20전문가%20양성과정%204기%20교육생%20한보영capsule%20render&fontSize=60)
+
 
 <div align=center> 
 
