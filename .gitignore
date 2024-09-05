@@ -4,6 +4,8 @@ output/
 dataset/
 sample/
 
+.DS_store
+
 
 
 # Byte-compiled / optimized / DLL files
